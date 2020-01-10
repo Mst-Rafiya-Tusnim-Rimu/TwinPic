@@ -11,7 +11,7 @@ Q – What is the difference between the Hide and the Exclude function on Leafpi
 
 A – Exclude simply removes the specific album from the remaining list of album. While Hide would create a (.nonmedia ) file in the folder and would be inaccessible to other apps but an excluded album is accessible other media apps on your device.
 
-Q – How do I solve **Leafpics has stopped** while trying to play some videos on Leafpic ?
+Q – How do I solve **Twinpics has stopped** while trying to play some videos on Twinpic ?
 
 A – Go to the video you wish to play and click the **dotted vertical line** at the top right corner of the screen, click **more** and select **open with** and choose from the listed video players on your device.
 
