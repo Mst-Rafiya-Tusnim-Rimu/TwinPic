@@ -1,4 +1,4 @@
-v0.7
+v0.8
 ====
 
 ### Features
@@ -8,7 +8,7 @@ v0.7
 * Slide Show #266
 * Show all Images Feature #416
 * Print
-* Delete/Move/Copy/Rename with progress dialog, and cancel feature #386
+* Delete/ Move/ Copy/ Rename with progress dialog, and cancel feature #386
 
 ### Fixes
 
